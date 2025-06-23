@@ -2,8 +2,6 @@
 
 -🔧 Passionate Software Engineer and Cybersecurity Enthusiast
 
--🚀 Developer of SubStrike, the ultimate subdomain reconnaissance tool.
-
 -🔍 Focused on security research, vulnerability assessments, and exploit development.
 
 -💻 Proficient in Python, Linux systems, and penetration testing methodologies.
