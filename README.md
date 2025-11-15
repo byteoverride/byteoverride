@@ -1,14 +1,14 @@
--👋 Hi, I’m Byte Override (Psalms Christopher Matovu)
+- 👋 Hi, I’m Byte Override (Psalms Christopher Matovu)
 
--🔧 Passionate Software Engineer and Cybersecurity Enthusiast
+- 🔧 Passionate Software Engineer and Cybersecurity Enthusiast
 
--🔍 Focused on security research, vulnerability assessments, and exploit development.
+- 🔍 Focused on security research, vulnerability assessments, and exploit development.
 
--💻 Proficient in Python, Linux systems, and penetration testing methodologies.
+- 💻 Proficient in Python, Linux systems, and penetration testing methodologies.
 
--🌍 Advocate for secure software practices and ethical hacking.
+- 🌍 Advocate for secure software practices and ethical hacking.
 
--📖 Lifelong learner, currently exploring advanced exploit development for Automobiles
+- 📖 Lifelong learner, currently exploring advanced exploit development for Automobiles
 
 
 <!---
